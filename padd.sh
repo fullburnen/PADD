@@ -1172,8 +1172,8 @@ NormalPADD() {
     GetSummaryInformation ${padd_size}
     GetSystemInformation ${padd_size}
 
-    # Sleep for 5 seconds
-    sleep 5
+    # Sleep for 15 seconds
+    sleep 15
   done
 }
 
